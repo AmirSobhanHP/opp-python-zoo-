@@ -10,7 +10,7 @@ class cat:
         else:
             raise ValueError
         self.color = color
-         if age > 0:
+         if weight > 0:
             self.weight = age
         else:
             raise ValueError
