@@ -9,7 +9,9 @@ class dog:
     def doginfo(self):
         return f"your dog name is {self.name} & his age is {self.age} & he is colored {self.color} and he is {self.weight} kg."
     def morningTime():
-        print("hello user! good morning... ") 
+        return "hello user! good morning... " 
     def nightTime():
-        print("good night user ! ")
+        return "good night user ! "
+    def animalsound():
+        return "hop! hop... "
 # dog_1 = dog("dogName",dogAge,"dogColor",dogWeight)

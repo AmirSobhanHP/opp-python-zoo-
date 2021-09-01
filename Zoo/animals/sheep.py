@@ -9,7 +9,9 @@ class sheep:
     def sheepinfo(self):
         return f"your sheep name is {self.name} & his age is {self.age} & he is colored {self.color} and he is {self.weight} kg."
     def morningTime():
-        print("hello user! good morning... ") 
+        return "hello user! good morning... " 
     def nightTime():
-        print("good night user ! ")
+        return "good night user ! "
+    def animalsound():
+        print("baaaaaaaaaaaaaaaa... ")
 # sheep_1 = sheep("sheepName",sheepAge,"sheepColor",sheepWeight)

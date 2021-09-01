@@ -12,4 +12,6 @@ class cat:
         print("hello user! good morning... ") 
     def nightTime():
         print("good night user ! ")
+    def animalsound():
+        return "miaoooooo... "
 # cat_1 = cat("catName",catAge,"catColor",catWeight)
